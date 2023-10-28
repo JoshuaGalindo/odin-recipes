@@ -1,0 +1,43 @@
+.blue-bg{
+    background-color: blue;
+}
+
+h1{
+    background-color: red;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+   
+    align-items: center;
+}
+
+p{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+ul{
+    background-color: orange;
+    font-size: 18px;
+}
+
+.pollo, .baleada {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.dark-background{
+    background-color: rgb(46, 46, 46);
+    color: white;
+}
+
+.white{
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
